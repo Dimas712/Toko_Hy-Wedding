@@ -63,3 +63,11 @@ html, body {
   overflow-x: hidden; /* Ini yang cegah geser horizontal */
   width: 100%;
 }
+.card {
+  border: 2px solid #fbc8d4;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+h1 {
+  font-family: 'Poetsen One', sans-serif;
+}
